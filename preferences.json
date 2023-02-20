@@ -1,19 +1,15 @@
 {
-	"Favorite movie": { 
+	"Favorite movie": [ 
 			"Knockin' on Heaven's",
 			"Interstellar"
-			 }
+			 ]
 
-	"Favorite series": { 
+	"Favorite series": [ 
 			"Wednesday",
 			"The Sandman"
-}
+]
 	"Favorite eat": "sushi"
 	"Favorite season": "summer"
 	"Country you would like to visi": "USA"
 			
-
-
-
-
 }
