@@ -1,6 +1,5 @@
 {
-"Skills after course": { 
-			"Testing theory",
+"Skills after course": { "Testing theory",
 			"Theory of client-server architecture",
 			"HTTP Methods of requests to the server",
 			"JSON, XML",
@@ -16,8 +15,7 @@
 			"Non-relational database Redis (installation, configuration and use)",
 			"Load testing in Jmeter",
 			"Scrum development methodology",
-			"Mobile testing": { 
-						"Feature iOS, Android, guidelines",
+			"Mobile testing": {     "Feature iOS, Android, guidelines",
 						"Building iOS applications on XCode",
 						"Building Android applications on Android Studio",
 						"ADB (android device management)",
