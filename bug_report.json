@@ -1,5 +1,6 @@
 {
   "Bug report": [
+    
                   "Number": 1,
                   "Summary": "name of the bug",
                   "Date submitted": "__/__/____",
@@ -16,7 +17,7 @@
                                       "Step 3": "text",
                                       "Step 4": "text"
                                         ],
-                  "Actual result": "text",
+                  "Actual result": "text",  
                   "Expected result": "text",
                   "Attachment": "link/foto/video",
                   "Environment": "Device/Brauser version"
